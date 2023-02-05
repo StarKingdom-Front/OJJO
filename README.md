@@ -1,2 +1,2 @@
 # OJJO
-https://StarKingdom-Front.github.io/master/OJJO
+https://StarKingdom-Front.github.io/OJJO
